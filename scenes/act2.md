@@ -23,14 +23,14 @@
 publish("act2",["dee",3]);
 ```
 
-s: But did you *see* that "news story" about that horrible thing happening somewhere?
+s: ولی تو اون داستان درباره اون اتفاق وحشتناک که داره یه جایی میفته رو *دیدی*؟
 
 ```
 publish("act2",["dee",2]);
 publish("act2",["party_hong","next"]);
 ```
 
-h2: h-hi...
+h2: س..سلام
 
 ```
 publish("act2",["party_hunter",1]);
@@ -38,14 +38,14 @@ publish("act2",["party_hong","next"]);
 publish("act2",["dum",3]);
 ```
 
-a: God I hate the news. It's all sensationalism and clickbait.
+a: خدایا از اخبار متنفرم. همه اش تبلیغات و جنجال بیهوده.
 
 ```
 publish("act2",["dum",2]);
 publish("act2",["party_hong","next"]);
 ```
 
-h2: n... nice party...
+h2: م...مهمونی خوبیه.
 
 ```
 publish("act2",["party_hong","next"]);
@@ -53,13 +53,13 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",1]);
 ```
 
-s: True, but they're just following incentives. The *real* problem is people who click the clickbait.
+s: درسته. ولی اونا فقط اشتیاق ایجاد می کنن. مشکل *واقعی* افرادی هستن که روی اونا کلیک میکنن.
 
 ```
 publish("act2",["dee",3]);
 ```
 
-s: Who would retweet a terrible news story, and make all their friends feel bad?
+s: کی ممکنه یه خبر ترسناک رو ریتوییت کنه و باعث بشه همه دوستاش حس بدی داشته باشن؟
 
 ```
 publish("act2",["party_hunter",1]);
@@ -67,7 +67,7 @@ publish("act2",["dee",2]);
 publish("act2",["dum",3]);
 ```
 
-a: Ugh, I know right?
+a: اخ. درست فهمیدم؟
 
 (#act2-preamble-end)
 
@@ -78,14 +78,14 @@ a: Ugh, I know right?
 publish("act2",["dee",3]);
 ```
 
-s: But did you *see* that "news story" going viral?
+s: ولی تو اون خبر وایرال شده رو *دیدی*؟
 
 ```
 publish("act2",["dee",2]);
 publish("act2",["party_hong","next"]);
 ```
 
-h2: h-hi...
+h2: س..سلام.
 
 ```
 publish("act2",["party_hunter",1]);
@@ -93,14 +93,14 @@ publish("act2",["party_hong","next"]);
 publish("act2",["dum",3]);
 ```
 
-a: Yeah, totally fake. Who would fall for that and retweet it?
+a: آره. کاملا جعلی. کی ممکنه باورش بشه و ریتوییتش کنه؟
 
 ```
 publish("act2",["dum",2]);
 publish("act2",["party_hong","next"]);
 ```
 
-h2: n... nice party...
+h2: م..مهمونی خوبیه.
 
 ```
 publish("act2",["party_hong","next"]);
@@ -108,7 +108,7 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",3]);
 ```
 
-s: Seriously dude. Like, hello, open up Google and factcheck first?
+s: جدی میگم رفیق. مثلا ... سلام... گوگل رو باز کن و صحتش رو بررسی کن!
 
 ```
 publish("act2",["party_hunter",1]);
@@ -116,7 +116,7 @@ publish("act2",["dee",2]);
 publish("act2",["dum",3]);
 ```
 
-a: Ugh, I know right?
+a: آخ. درست فهمیدم؟
 
 (#act2-preamble-end)
 
@@ -127,14 +127,14 @@ a: Ugh, I know right?
 publish("act2",["dee",3]);
 ```
 
-s: Like I was saying, the Meme Industrial Complex exploits cats.
+s: همونطور که گفتم مجتمع های صنعتی از میم های گربه ها سو استفاده می کنن.
 
 ```
 publish("act2",["dee",2]);
 publish("act2",["party_hong","next"]);
 ```
 
-h2: h-hi...
+h2: س...سلام.
 
 ```
 publish("act2",["party_hunter",1]);
@@ -142,14 +142,14 @@ publish("act2",["party_hong","next"]);
 publish("act2",["dum",1]);
 ```
 
-a: Elaborate on this thesis.
+a: این پایان نامه رو توضیح بدید.
 
 ```
 publish("act2",["dum",0]);
 publish("act2",["party_hong","next"]);
 ```
 
-h2: n... nice party...
+h2: م..مهمونی خوبیه.
 
 ```
 publish("act2",["party_hong","next"]);
@@ -157,13 +157,12 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",1]);
 ```
 
-s: Well, I saw someone retweet a GIF of a cat drinking milk yesterday.
-
+s: خب من دیروز دیدم یه نفر یه گیف از یه گربه در ال شیر خوردن توییت کرده بود.
 ```
 publish("act2",["dee",3]);
 ```
 
-s: They can't digest that ^crap^! Who would retweet *animal abuse* like that?
+s: اونا نمیتونن اون لعنتی رو هضم کنن. آخه کی *آزار* حیوانات رو ریتوییت میکنه؟
 
 ```
 publish("act2",["party_hunter",1]);
@@ -171,7 +170,7 @@ publish("act2",["dee",2]);
 publish("act2",["dum",3]);
 ```
 
-a: Ugh, I know right?
+a: آخ. درست فهمیدم؟
 
 (#act2-preamble-end)
 
@@ -182,14 +181,14 @@ a: Ugh, I know right?
 publish("act2",["dee",1]);
 ```
 
-s: So yeah they never replied back!
+s: بله اونا هیچ وقت جوابی ندادن.
 
 ```
 publish("act2",["dee",0]);
 publish("act2",["party_hong","next"]);
 ```
 
-h2: h-hi...
+h2: س..سلام؟
 
 ```
 publish("act2",["party_hunter",1]);
@@ -197,14 +196,14 @@ publish("act2",["party_hong","next"]);
 publish("act2",["dum",1]);
 ```
 
-a: Even though you both matched each other on Tinder?
+a: حتی با اینکه هردوتون توی تیندر باهم آشنا شدید؟
 
 ```
 publish("act2",["dum",0]);
 publish("act2",["party_hong","next"]);
 ```
 
-h2: n... nice party...
+h2: م..مهمونی خوبیه..
 
 ```
 publish("act2",["party_hong","next"]);
@@ -229,7 +228,7 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",3]);
 ```
 
-s: Yeah I dunno! What, did they think I was a *serial killer* or something? So paranoid.
+s: آره..نمد!. فکر کردن *قاتل سریال* ام یا یه همچین چیزی؟ توهم توطئه!
 
 ```
 publish("act2",["party_hunter",1]);
@@ -237,7 +236,7 @@ publish("act2",["dee",2]);
 publish("act2",["dum",3]);
 ```
 
-a: Ugh, I know right?
+a: آخ. درست فهمیدم؟
 
 (#act2-preamble-end)
 
@@ -249,9 +248,9 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",3]);
 ```
 
-s: Yeah I dunno! Maybe they think hookups can't fill the hole in their heart?
+s: آره..نمد!. شاید فکر میکنن رابطه های یهویی نمیتونه *خلا* هاشون رو پر کنه!
 
-s: Stop being such a prude! Open your mind, then open your legs!
+s: دست از کوته فکری بردار. ذهنت رو باز کن وبعد.. پاهات رو باز کن.
 
 ```
 publish("act2",["party_hunter",1]);
@@ -259,7 +258,7 @@ publish("act2",["dee",2]);
 publish("act2",["dum",3]);
 ```
 
-a: Ugh, I know right?
+a: آخ. درست فهمیدم؟
 
 (#act2-preamble-end)
 
@@ -271,7 +270,7 @@ publish("act2",["party_hunter",0]);
 publish("act2",["dee",3]);
 ```
 
-s: Yeah I dunno! They weren't that hot, but they would have been a nice catch!
+s: آره. نمد!. خیلی جذاب نبود ولی اگه گیرش مینداختم خوب میشد.
 
 ```
 publish("act2",["party_hunter",1]);
@@ -279,7 +278,7 @@ publish("act2",["dee",2]);
 publish("act2",["dum",3]);
 ```
 
-a: Gotta Catch 'Em All!™
+a: میخوام همه شون رو بگیرم!
 
 (#act2-preamble-end)
 
@@ -300,27 +299,27 @@ publish("hp_show");
 bb({body:"normal", mouth:"normal", eyes:"normal"});
 ```
 
-n: ROUND TWO: *FIGHT!*
+n: دور دوم: *مبارزه!*
 
-[Oh no they all hate us!](#act2a_social)
+[وای نه همه اونا از ما بدشون میاد](#act2a_social)
 
-[Were you *ogling* the redhead?](#act2a_perv)
+[به *مو قرمز* خیره شده بودی؟!](#act2a_perv)
 
-[Hey, let's talk about the meaning of life.](#act2a_meaning)
+[هی بیا درباره معنی زندگی حرف بزنیم.](#act2a_meaning)
 
 # act2a_social
 
 `bb({eyes:"sad"})`
 
-b: We're bringing down the mood of this party by being such a sad lump!
+b: ما داریم غم رو تتوی کل مهمونی منتشر می کنیم.
 
 `bb({eyes:"shock", body:"two_up"})`
 
-b: We're killing the good vibes! We're committing first-degree vibe-murder!
+b: ما داریم تمام حس خوب رو از بین می بریم. ما مرتکب قتل عمد حس خوب شدیم!
 
 `bb({eyes:"normal", body:"normal"})`
 
-b: Human, we have to leave *now* before--
+b: انسان. ما باید *همین الان* قبل از اینکه...
 
 ```
 _.a2_first_danger = 'social';
@@ -333,15 +332,15 @@ _.a2_attack_1 = "alone";
 
 `bb({eyes:"suspect"})`
 
-b: They're more attractive than us, which means if we even *look* at them, then--
+b: اونا از ما جذاب ترن. یعنی حتی اگه بهشون *نگاه* کنیم ...
 
 `bb({eyes:"shock", body:"two_up"})`
 
-b: WE'RE CREEPS
+b: ما آویزونشونیم.
 
 `bb({body:"normal"})`
 
-b: We're creepy, evil, bad bad bad terrible terrible perv--
+b: ما چشم چرونیم. و شیطانی و بد! بد بد بد بد بد...
 
 ```
 _.a2_first_danger = 'perv';
@@ -354,31 +353,31 @@ _.a2_attack_1 = "bad";
 
 `bb({body:"one_up", eyes:"normal_r"})`
 
-b: At the end of it all, what can we possibly do that really matters? 
+b: تهش چه کار واقعا مهمی می تونیم بکنیم؟
 
 `bb({body:"normal", eyes:"sad"})`
 
-b: Contribute to humanity? All great works decay the way of Ozymandias. Love? Death will always do it part.
+b: کمک به بشریت؟ تمام نیکی ها به شیوه اوزیمندیاس از بین میرن. عشق؟ مرگ نابودش میکنه.
 
 `bb({eyes:"sad_r"})`
 
-b: And how much death there is! *We* will die. *Our loved ones* will die.
+b: و چقدر مرگ وجود دارد! *ما/8 میمیریم. *عزیزان ما* میمیرند.
 
 `bb({eyes:"shock", body:"two_up"})`
 
-b: Heck, the Second Law of Thermodynamics means even our *universe* will die!
+b: خب؛ قانون دوم ترمودینامیک یعنی *کیهان* هم خواهدد مرد.
 
 `bb({eyes:"suspect", body:"normal"})`
 
-b: Oh, "death makes us appreciate life"? That's like saying slavery is good because it makes us appreciate freedom!
+b: اوه! "مرگ باعث میشه قدر زندگی رو بدونیم" ؟ مثل اینه که بگیم بردگی خوبه چون باعث میشه قدر آزادی رو بدونیم!
 
 `bb({body:"one_up"})`
 
-b: Oh, "you need to make your own meaning"? That's what cultists and conspiracy theorists do!
+b: باید "معنای خودت را بسازی"؟! این کاریه که فرقه گراها و متوهمان توطئه میکنن.
 
 `bb({eyes:"shock", body:"two_up"})`
 
-b: Life has no meaning, death has no meaning, even *meaning* has no meaning! What is a mortal soul supposed to--
+b: زندگی هیچ معنایی نداره. مرگ هیچ معنایی نداره. حتی *معنی* هم هیچ معنایی نداره! یه روح فانی قراره چه...
 
 ```
 _.a2_first_danger = 'meaning';
@@ -395,7 +394,7 @@ b: ...
 
 `bb({eyes:"suspect"})`
 
-b: Um... can you hear me, human?
+b: اممم .. صدای من رو میشنوی انسان؟
 
 `bb({eyes:"normal", MOUTH_LOCK:true})`
 
@@ -403,23 +402,23 @@ b: ...
 
 `bb({eyes:"shock", mouth:"small_talk", body:"chest", MOUTH_LOCK:true})`
 
-b: *GASP*
+b: *خدایا*
 
 `bb({mouth:"small_talk"})`
 
-b: I MUST WARN YOU ABOUT...
+b: باید درباره یه چیزی بهت هشدار بدم...
 
-[*More* of the same danger!](#act2b_louder)
+[خطرهای مشابه *بیشتر*!](#act2b_louder)
 
 {{if _.a2_first_danger=="social"}}
-[A *different* social danger!](#act2b_different_social)
+[یک خطر اجتماعی *دیگر*](#act2b_different_social)
 {{/if}}
 
 {{if _.a2_first_danger=="perv" || _.a2_first_danger=="meaning"}}
-[A *different* moral danger!](#act2b_different_moral)
+[یک خطر اخلاقی *دیگر*](#act2b_different_moral)
 {{/if}}
 
-[You're ignoring danger! That's dangerous!](#act2b_ignore)
+[تو داری خطر را نادیده می گیری. این خطرناکه!](#act2b_ignore)
 
 # act2b_louder
 
@@ -441,13 +440,13 @@ b: I MUST WARN YOU ABOUT...
 
 `bb({eyes:"shock", body:"two_up", mouth:"normal"})`
 
-b: EMOTIONS ARE CONTAGIOUS! SO IF YOU DON'T LEAVE YOU'LL INFECT EVERYONE WITH YOUR MENTAL ILLNESS! 
+b: احساسات واگیردارن. اگه اینجا رو ترک نکنی همه رو مثل خودت روانی می کنی.
 
-b: You'll create a deadly outbreak of SAD LUMP SYNDROME
+b: تو یک توده مرگبار از سندرم همه گیرافسردگی می سازی.
 
 `bb({eyes:"suspect", body:"normal", mouth:"normal"})`
 
-b: We need to get out of here and quarantine ourselves forever in a small room with Netflix and food delivery!
+b: ما باید از اینجا بریم و خودمون رو برای همیشه تو یه اتاق با نتفلیکس و سرویس غذا قرنطینه کنیم.
 
 ```
 _.a2_second_danger = 'netflix';
@@ -461,7 +460,7 @@ _.a2_hoodie_callback = "a quarantine";
 
 `bb({eyes:"suspect", body:"two_up", mouth:"normal"})`
 
-b: DON'T BE A CREEP. IT'S AGAINST THE LAW!
+b: چشم چرونی نکن. خلاف قانونه.
 
 `bb({eyes:"judge", body:"judge_1", mouth:"normal"})`
 
@@ -486,11 +485,11 @@ sfx("gravel");
 
 (...501)
 
-b: Creep Law, Section 74.5: (1) Any Person who checks out (a) those muscular shoulders (b) that bubble booty (2) shall be hereby known as
+b: قانون چشم چرانی بند 75.3: هرکس به آن شانه های عضلانی و باسن حباب بنگرد بدین وسیله شناخته می شود به عنوان...
 
 `bb({eyes:"shock", body:"two_up", mouth:"normal"})`
 
-b: "A BIG DISGUSTING TRASH PERVERT"
+b: یک منحرف چندش آور آشغال.
 
 ```
 _.a2_second_danger = 'law';
@@ -504,23 +503,23 @@ _.a2_hoodie_callback = "the law";
 
 `bb({body:"two_up", mouth:"normal", eyes:"shock"})`
 
-b: Actually, even if you find a noble purpose in life, you can *still* mess everything up!
+b: در واقع حتی اگه هدف والایی توی زندگیت پیدا کنی *هنوز* میتونی همه چی رو خراب کنی.
 
 `bb({body:"normal", mouth:"normal", eyes:"normal"})`
 
-b: Alfred Nobel wanted world peace and for cultures to understand each other. So he decided to make travel easier.
+b: آلفرد نوبل خواهان صلح جهانی و درک متقابل فرهنگ ها بود پس تصمیم گرفت سفر را آسان کند.
 
 `bb({eyes:"normal_r"})`
 
-b: So he needed a way to cheaply create train tunnels. So he invented a new material called "dynamite"...
+b: او راهی برای ساخت ارزان تر تونل های قطار نیاز داشت؛ پس وسیله ای به نام "دینامیت" را اختراع کرد.
 
 `bb({body:"one_up", eyes:"normal"})`
 
-b: which was used in World War I to KILL MILLIONS OF PEOPLE
+b: که در جنگ جهانی اول برای کشتن میلیون ها نفر بکار رفت.
 
 `bb({body:"two_up", eyes:"shock"})`
 
-b: IT'S THE BUTTERFLY EFFECT, HUMAN! HOW MANY PEOPLE ARE YOU ACCIDENTALLY KILLING RIGHT NOW
+b: این اثر پروانه ایه. همین الان چند نفر رو داری می کشی، انسان؟
 
 ```
 _.a2_second_danger = 'butterfly';
@@ -536,19 +535,19 @@ _.a2_hoodie_callback = "World War I";
 
 `bb({eyes:"normal_r", body:"point", mouth:"normal"})`
 
-b: Actually, you know what's worse than no-one liking you? *Everyone* liking you.
+b: راستش میدونی چی بدتر از اینه که هیچکس ازت خوشش نیاد؟ اینکه همه ازت خوششون بیاد.
 
 `bb({body:"one_up", eyes:"suspect", mouth:"normal"})`
 
-b: That is, becoming one of *these* pleasure-chasing party animals.
+b: یعنی تبدیل شدن به یکی از این حیوانات لذت جوی خوش گذران.
 
 `bb({body:"normal", mouth:"small"})`
 
-b: A shallow life with shallow friends who only know the shallow you!
+b: یک زندگی سطحی با دوستان سطحی که تو رو فقط سطحی می شناسن.
 
 `bb({body:"two_up", eyes:"shock", mouth:"normal"})`
 
-b: Human, we need to run away from these pleasure-zombies before they turn us into one of them!
+b: انسان! ما باید از دست این زامبی های عیاش فرار کنیم تا ما رو تبدیل به یکی مثل خودشون نکردن.
 
 ```
 _.a2_second_danger = 'zombies';
@@ -564,19 +563,19 @@ _.a2_hoodie_callback = "zombies";
 
 `bb({body:"two_up", eyes:"shock", mouth:"normal"})`
 
-b: People are dying in famines and genocides *right now* and we're just partying!
+b: مردم *همین حالا* دارن تو نسل کشی و قحطی می میرن و ما داریم خوش میگذرونیم.
 
 `bb({body:"point", eyes:"closed", mouth:"small"})`
 
-b: A wise person once said, "the only thing necessary for the triumph of evil is for good folks to do nothing."
+b: یه آدم خردمند گفته "تنها چیزی که برای پیروزی شر لازمه هیچکاری نکردن آدم های خوبه."
 
 `bb({body:"two_up", eyes:"shock", mouth:"normal"})`
 
-b: WE'RE DOING NOTHING.
+b: ما داریم هیچ کاری نمی کنیم.
 
 `bb({mouth:"small"})`
 
-b: BY PARTYING, WE'RE HELPING *HITLER*.
+b: با مهمونی رفتن داریم به *هیتلر* کمک می کنیم.
 
 ```
 _.a2_second_danger = 'hitler';
@@ -592,15 +591,15 @@ _.a2_hoodie_callback = "Hitler";
 
 `bb({body:"normal", mouth:"normal", eyes:"suspect"})`
 
-b: You think you're safe just because you took the batteries out of the carbon monoxide detector?
+b: فکر میکنی چون با خودت باتری آشکارساز مونوکسید کربن آوردی در امانی؟
 
 `bb({eyes:"suspect_r"})`
 
-b: You won't even smell the poison! You'll just get sleepy and then you'll--
+b: حتی بوی سم رو هم حس نخواهی کرد. بیهوش میشی و بعدش...
 
 `bb({body:"scream_c_1"})`
 
-b: DIEEEEEEEEEEEEEEEEEE
+b: می مییییییییییییییییییییییییری
 
 ```
 _.a2_second_danger = 'ignore';
@@ -621,29 +620,29 @@ b: ...
 
 `bb({eyes:"happy", mouth:"smile", body:"chest"})`
 
-b: Oh thank goodness human, I think you can hear me again!
+b: اوه خداروشکر انسان. فکر کنم دوباره میتونی صدام رو بشنوی.
 
 `bb({eyes:"closed", body:"point"})`
 
-b: I SHALL WARN YOU ABOUT...
+b: باید درباره *خطر* بهت هشدار بدم.
 
 {{if _.a2_first_choice=="louder"}}
-[*Even more* of the same danger!](#act2c_louder)
+[خطرات مشابه،*حتی بیشتر*](#act2c_louder)
 {{/if}}
 
 {{if _.a2_first_choice!="louder"}}
-[*More* of the same danger!](#act2c_louder)
+[خطرات مشابه *بیشتر*](#act2c_louder)
 {{/if}}
 
 {{if _.a2_first_danger=="social"}}
-[A *different* social danger!](#act2c_different_social)
+[یه خطر اجتماعی *متفاوت*](#act2c_different_social)
 {{/if}}
 
 {{if _.a2_first_danger=="perv" || _.a2_first_danger=="meaning"}}
-[A *different* moral danger!](#act2c_different_moral)
+[یه خطر اجتماعی *متفاوت*](#act2c_different_moral)
 {{/if}}
 
-[Did you check that punch before drinking?](#act2c_punch)
+[بطری رو قبل از نوشیدن چک کردی؟](#act2c_punch)
 
 #act2c_louder
 
@@ -675,15 +674,15 @@ b: I SHALL WARN YOU ABOUT...
 
 `bb({body:"normal", mouth:"normal", eyes:"shock"})`
 
-b: Actually, Netflix & food delivery isn't quarantined enough! We'd still infect the delivery person!
+b: راستش نتفلیکس و سرویس غذا به اندازه کافیقرنطینه مون نمیکنه. هنوز هم پیک غذا رو آلوده می کنیم.
 
 `bb({body:"one_up", mouth:"small"})`
 
-b: We need to move to the Canadian Yukon territories, and have our food delivered by drone!
+b: ما باید به سرزمین یوکان در کانادا مهاجرت کنیم و غذایمان را با پهپاد تحویل بگیریم.
 
 `bb({body:"two_up", mouth:"normal"})`
 
-b: And then they'd have to sterilize the drone to rid it of our SAD LUMP GERMS
+b: و بعدش باید پهپاد رو ضدعفونی کنند تا میکروب های افسرده ما روش نمونه.
 
 `_.a2_attack_3 = "alone";`
 
@@ -716,13 +715,13 @@ sfx("gravel");
 
 (...501)
 
-b: The BIG DISGUSTING TRASH PERVERT shall be sentenced to 72 hours in one of those medieval public-humiliation devices
+b: این منحرف بزرگ چندش آور آشغال به 72 ساعت حبس در آن دستگاه های تحقیر عمومی قرون وسطا محکوم می شود.
 
-b: unless they're secretly *into* that sort of thing
+b: مگر اینکه مخفیانه کارش را انجام دهد.
 
 `bb({body:"scream_a_1"})`
 
-b: because they're a BIG DISGUSTING TRASH PERVERT
+b: چون او یک منحرف چندش آور آشغال است.
 
 `_.a2_attack_3 = "bad";`
 
@@ -734,19 +733,19 @@ b: because they're a BIG DISGUSTING TRASH PERVERT
 
 `bb({body:"normal", mouth:"small", eyes:"suspect"})`
 
-b: BUTTERFLY EFFECT! You're using a non-biodegradable plastic cup?
+b:*اثر پروانه ای!* داری از یه لیوان پلاستیکی زیست تخریب ناپذیر استفاده میکنی؟!
 
 `bb({body:"two_up", mouth:"normal", eyes:"shock"})`
 
-b: BAM, A LANDFILL LEAKS POISON AND KILLS A KID
+b: بوم! محل دفن زباله نشت می کند و یک کودک را می کشد.
 
 `bb({body:"normal", mouth:"small", eyes:"suspect"})`
 
-b: You're sweating and your heart's pounding?
+b: عرق کردی و قلبت تند میزنه؟
 
 `bb({body:"scream_a_1"})`
 
-b: BAM, YOU BANKRUPT OUR HEALTHCARE SYSTEM AND MILLIONS DIE
+b: بوم! سیستم درمانی رو نابود میکنی و میلیون ها نفر میمیرن.
 
 `_.a2_attack_3 = "bad";`
 
@@ -758,15 +757,15 @@ b: BAM, YOU BANKRUPT OUR HEALTHCARE SYSTEM AND MILLIONS DIE
 
 `bb({body:"normal", mouth:"small", eyes:"angry"})`
 
-b: These pleasure-zombies will stumble towards you mumbling,
+b: این زامبی های لذت جو زیر لب هذیون میگن و بهت نزدیک میشن...
 
 `bb({body:"normal", mouth:"normal", eyes:"shock"})`
 
-b: LIIIIIKES. LIIIIIIIIIIKES.
+b: دوست دارییییم. دوست داریییییییییم.
 
 `bb({body:"scream_a_1"})`
 
-b: Then they'll BITE YOU and turn you into a BRAINLESS BRO and/or THOUGHTLESS THOT!
+b: بعدش گازت میگیرن و تبدیل میشی به یه احمق بی مغز بی فکر.
 
 `_.a2_attack_3 = "bad";`
 
@@ -778,15 +777,15 @@ b: Then they'll BITE YOU and turn you into a BRAINLESS BRO and/or THOUGHTLESS TH
 
 `bb({body:"scream_a_1"})`
 
-b: THE NAZIS ARE GOOSE-STEPPING BACK ON THE STREETS RIGHT NOW
+b: نازی ها همین الان دارن میریزن تو خیابونا
 
 `bb({body:"one_up", mouth:"smile", eyes:"happy"})`
 
-b: Saying, *good thing those 'good folks' slacked off with stuff like 'relaxing' and 'self-care'!*
+b: با گفتن: آدم های خوب به علت *آرامش* و *مراقبت از خود* عقب نشینی کرده اند.
 
 `bb({body:"point", mouth:"smile", eyes:"happy_r"})`
 
-b: *Now our plans can go fourth, reich on schedule!*
+b: *حالا برنامه های ما می توانند طبق برنامه ریزی پیش بروند*
 
 `_.a2_attack_3 = "bad";`
 
@@ -798,15 +797,15 @@ b: *Now our plans can go fourth, reich on schedule!*
 
 `bb({body:"normal", mouth:"normal", eyes:"normal_r"})`
 
-b: Come to think about it, do we know if this building *has* a monoxide detector?!
+b: بیا درباره اش فکر کنیم. این ساختمون *سنسور مونوکسید* داره یا نه؟
 
 `bb({body:"two_up", mouth:"small", eyes:"normal"})`
 
-b: What if we're all being poisoned *RIGHT NOW?*
+b: اگر *همین الان* همه مسموم شده باشیم چی؟
 
 `bb({body:"scream_a_1"})`
 
-b: WE WOULDN'T EVEN SEE DEATH APPROACH. WE'D JUST STOP EXISTING FOREVER AND EVER AND EV--
+b: حتی نزدیک شدن مرگ رو هم نمیفهمیم. فقط دیگر وجود نخواهیم داشت. برای همیشه و همیشه و هم..
 
 `_.a2_attack_3 = "harm";`
 
@@ -816,17 +815,17 @@ b: WE WOULDN'T EVEN SEE DEATH APPROACH. WE'D JUST STOP EXISTING FOREVER AND EVER
 
 # act2c_different_social
 
-`bb({body:"normal", mouth:"normal", eyes:"sad"})`
+`bb({body:"normal", mouth:"normal", eyes:"sad "000})`
 
-b: What if we're just *fundamentally incapable* of ever being loved, or loving another?
+b: اگه ما *اساسا* توان دوست داشتن و دوست داشته شدن رو نداشته باشیم چی؟
 
 `bb({body:"normal", mouth:"small", eyes:"sad_r"})`
 
-b: What if something irreversibly broke inside of us a long time ago? Or never existed in us in the first place?
+b: اگر یه چیز بازناگشتنی مدت ها پیش درون ما شکسته باشه چی؟ اگر ما از اول نداشته ایم اش چی؟
 
 `bb({body:"scream_a_1"})`
 
-b: AHH WE'RE BROKEN! SO BROKEN SO BROKEN SO BROKE--
+b: آه ما شکسته ایم. بسیار شکسته. بسیار شکسته بسیار شکسته بسی
 
 `_.a2_attack_3 = "alone";`
 
@@ -836,19 +835,19 @@ b: AHH WE'RE BROKEN! SO BROKEN SO BROKEN SO BROKE--
 
 `bb({body:"normal", mouth:"normal", eyes:"normal"})`
 
-b: What if we're just *fundamentally rotten?*
+b: اگر ما از پایه فاسد باشیم چی؟
 
 `bb({body:"one_up", eyes:"sad"})`
 
-b: Others have an inner drive to do goodness, but we only do "good" out of guilt or shame, if at all.
+b: دیگران برای کار خوب انگیزه درونی دارن ولی ما فقط از روی شرم یا احساس گناه کار خوب میکنیم. اگر اصلا بکنیم!
 
 `bb({body:"normal", mouth:"small", eyes:"sad_r"})`
 
-b: What if it's in our nature to hurt others? What if we can't be anything *other* than a burden to those close to us?
+b: اگه آزار دادن دیگران تو ذاتمون باشه چی؟ اگر نتونیم هیچ چیز *دیگه* ای بجز باری روی دوش عزیزانمون باشیم چی؟
 
 `bb({body:"scream_a_1"})`
 
-b: AHH WE'RE BROKEN! SO BROKEN SO BROKEN SO BROKE--
+b: آه ما شکسته ایم. بسیار شکسته بسیار شکسته بسیار شکسته بسی
 
 `_.a2_attack_3 = "bad";`
 
@@ -858,15 +857,15 @@ b: AHH WE'RE BROKEN! SO BROKEN SO BROKEN SO BROKE--
 
 `bb({body:"normal", mouth:"normal", eyes:"normal"})`
 
-b: I'm not being irrational. People *do* drug punch bowls. That is an actual thing that actually happens.
+b: من غیرمنطقی نیستم. مردم واقعا با بطری های پلمپ هم از حال میرن. این اتفاق میفته.
 
 `bb({eyes:"suspect"})`
 
-b: Human, does your head hurt? Are your limbs limp? I think we're dying.
+b: انسان! سرت درد میکنه؟ دست و پات کرخت شده؟ فکر کنم داریم میمیریم.
 
 `bb({body:"scream_a_1"})`
 
-b: AHHH WE'RE DYING! WE'RE DYING WE'RE DYING WE'RE DYI--
+b: آه ما داریم می میریم. می میریم می میریم میریم می میر
 
 `_.a2_attack_3 = "harm";`
 
@@ -898,70 +897,70 @@ attack("20p", _.a2_attack_3);
 
 (...1001)
 
-h: F^AAACK^!
+h: لعنتتتتتتتت!
 
-h: F^ACK^ING F^ACK^-F^AKK^ITY *F^AAAAACK^*
+h: لعنت درد نفرین لعنتتت لعنتتتتت
 
 `bb({body:"two_up", mouth:"smile", eyes:"happy"});`
 
-b: Yay, human! I'm so happy you can hear me again!
+b: آره! انسان. خیلی خوشحالم که دوباره صدامو میشنوی.
 
 `bb({body:"normal", mouth:"small", eyes:"sad"})`
 
-b: Why were you ignoring me?
+b: چرا داشتی نادیده ام میگرفتی؟
 
 `hong({body:"facepalm"})`
 
-h: Holy ^hell^, you absolute moron.
+h: برو به جهنم احمق لعنتی.
 
 `hong({body:"facepalm_2"})`
 
-h: You know that Native American story?
+h: اون افسانه بومی آمریکایی رو شنیدی؟
 
-h: "There are two wolves inside you, one is hope, one is despair, which wolf wins? The one you feed."
+h: "دو گرگ درون تو هستند. امید و ناامیدی. کدام پیروز می شود؟ آن که به او غذا می دهی.
 
 ```
 hong({body:"facepalm_3"});
 bb({eyes:"normal"});
 ```
 
-h: I was trying to *starve* you, you sadistic ^asshole^!
+h: داشتم سعی میکردم از گرسنگی خفته ات کنم عوضی دگرآزار.
 
 `hong({body:"smile", mouth:"smile"})`
 
-h: Screw it, I'll do positive affirmations instead.
+h: به درک. بجاش جملات انگیزشی مثبت بکار می برم.
 
-h: *I am loved. I am good. I am smart. I am beautiful. I am special.*
+h: *من دوست داشتنیم. من خوبم. من باهوشم. من زیبام. من خاصم.
 
 `bb({eyes:"suspect"});`
 
-[Golly, that's so narcissistic!](#act2d_narcissist)
+[خدای من! خیلی خودپسندانه ست.](#act2d_narcissist)
 
-[Y'know affirmations were *disproven?*](#act2d_disproven)
+[میدونی تاثیر جملات انگیزشی *رد* شده؟](#act2d_disproven)
 
-[omg don't credit random stories to indigenous folk](#act2d_racist)
+[خدایا داستان های چرت رو به مردم بومی نسبت نده.](#act2d_racist)
 
 # act2d_disproven
 
 `bb({body:"point", mouth:"normal", eyes:"closed"})`
 
-b: In fact, they actually *backfire* for people with low self-esteem! 
+b: در واقع اونا برای افراد با عزت نفس پایین نتیجه عکس میدن.
 
 `bb({body:"one_up", mouth:"small", eyes:"normal"})`
 
-b: It was a well-designed study – randomized controlled trial, experimenter was blinded as to who was in which group.
+b: این یک مطالعه کنترل شده با ساختار عالی بود. آزمایشگر نمیدونست هر فرد در کدوم گروهه.
 
 `bb({body:"two_up", mouth:"small", eyes:"normal_r"})`
 
-b: Results: if you already had low self-esteem, being asked to repeat affirmations makes you feel *worse* than if you'd said nothing at all!
+b: نتیجه این بود که افراد با عزت نفس پایین بعد از گفتن جملات تاکیدی مثبت حس بدتری داشتن.
 
 `bb({body:"point", mouth:"normal", eyes:"closed"})`
 
-b: Wood 2009, Psychological Science. Look it up on Google Scholar, human,
+b: منبع: Wood 2009, Psychological Science. گوگلش کن انسان.
 
 `bb({body:"scream_b_1"})`
 
-b: THEN STOP SPREADING UNSCIENTIFIC FAKE NEWS
+b: و بعد انتشار مطالب غیرعلمی جعلی رو متوقف کن.
 
 ```
 hong({body:"attacked"});
@@ -977,19 +976,19 @@ attack("10p", "bad");
 
 `bb({body:"normal", mouth:"normal", eyes:"normal"})`
 
-b: You *need* to humbly see your own flaws in order to grow as a person!
+b: برای رشد فردی *باید* فروتنانه کاستی هات رو بپذیری.
 
 `bb({body:"two_up", eyes:"suspect"})`
 
-b: You can't spray air freshener over a moldy room! Covering up your flaws makes you worse in the long run.
+b: نمیتونی تو یه اتاق کپک زده خوشبو کننده بزنی. پنهان کردن بدی هات در درازمدت بدترت میکنه.
 
 `bb({body:"chest", mouth:"smile", eyes:"closed"})`
 
-b: Thankfully, I, as your loyal guard-wolf, can alert you to your flaws. And right now, it's-
+b: خوشبختانه، من، گرگ نگهبانت میتونم از بدی هات آگاهت کنم و همین الان...
 
 `bb({body:"scream_b_1"})`
 
-b: EVERYTHING. EVERYTHING IS WRONG
+b: *همه چیز، همه چیز* غلطه!
 
 ```
 hong({body:"attacked"});
@@ -1005,15 +1004,15 @@ attack("10p", "bad");
 
 `bb({body:"normal", mouth:"normal", eyes:"suspect"})`
 
-b: Native Americans are *actual people*, not some "noble savages" you can namedrop to make your fortune-cookie advice more *exotic*.
+b: بومی های آمریکا *مردم واقعی* اند نه *وحشی های نجیب* که برای رمالی اسمشون بیاری.
 
 `bb({eyes:"suspect_r"})`
 
-b: You're reducing individual persons & complex cultures to a Hallmark card! That's "benevolent racism"! 
+b: تو داری افراد و فرهنگ های پیچیده و به یه افسانه خرافی تقلیل میدی. نژاد پرستانه ست!
 
 `bb({body:"scream_b_1"})`
 
-b: STOP BEING RACIST YOU SQUINTY-EYED JERK
+b: نژادپرست نباش جقی چشم چرون.
 
 ```
 hong({body:"attacked"});
@@ -1027,45 +1026,45 @@ attack("10p", "bad");
 
 # act2e
 
-h: ^ASSDAMMIT^.
+h: کوفت.
 
 `hong({body:"yell", mouth:"yell"})`
 
-h: You know what? You're *irrational*.
+h: میدونی چیه؟ تو *غیرمنطقی* هستی.
 
-h: Everyone knows emotions are irrational! Especially fear!
+h: همه میدونن احساسات غیرمنطقین. مخصوصا ترس!
 
 `hong({body:"facepalm_2"})`
 
-h: You're a useless evolutionary leftover, like my appendix or wisdom teeth!
+h: تو یه زائده بی مصرفی. مثل آپاندیس یا دندون عقل من.
 
 `hong({body:"yell", mouth:"yell"})`
 
-h: ^Hell^, this whole wolf metaphor is stupid! You're just a bunch of neuro-chemicals in my head.
+h: لعنت. این استعاره گرگ هم احمقانه ست. تو فقط یه مشت ماده شیمیایی تو سر منی.
 
 `hong({body:"cross", mouth:"cross"})`
 
-h: So why should I listen to a worthless, irrational, non-existent piece of ^shit^ like you?!
+h: پس چرا باید به یه تیکه آشغال بی ارزش بی عقل بی وجود مثل تو گوش بدم؟
 
 `bb({eyes:"sad", MOUTH_LOCK:true})`
 
 b: ...
 
-[Jeez, human. That's really hurtful.](#act2e_hurtful)
+[خدایا! انسان این خیلی دردناکه!](#act2e_hurtful)
 
-[I'm a feeling. Feelings are valid.](#act2e_valid)
+[من یه احساسم. احساسات معتبرن.](#act2e_valid)
 
-[Human, we're *both* "just chemicals."](#act2e_rational)
+[انسان!*هر دوی ما* یه سری مواد شیمیایی هستیم.](#act2e_rational)
 
 # act2e_hurtful
 
 `bb({body:"chest"})`
 
-b: I'm *part* of you, you know. When you say that, you're hurting *yourself*.
+b: من *بخشی* از تو ام. وقتی این رو میگی داری به *خودت* آسیب میزنی.
 
 `bb({body:"scream_a_1"})`
 
-b: Why are you hitting yourself, human? STOP HITTING YOURSELF.
+b: چرا داری خودزنی می کنی انسان؟ دست از خودزنی بردار.
 
 ```
 music(null);
@@ -1082,23 +1081,23 @@ attack("10p", "harm");
 
 `bb({body:"normal", mouth:"normal", eyes:"normal_r"});`
 
-b: Your deepest motivations are dopamine, your richest joys are serotonin.
+b: عمیق ترین انگیزه هات سروتونینه. لذت بخش ترین شادیات دوپامین.
 
 `bb({body:"one_up"});`
 
-b: Your memories are synaptic weights, your reason is fault-prone electrical signals.
+b: خاطراتت وزن های سیناپسی ان، استدلالات سیگنال های الکتریکی مستعد خطا.
 
 `bb({eyes:"normal", body:"normal"});`
 
-b: So if me being "just chemicals" means *I'm* irrational... then that means *you're* irrational!
+b: پس اگر شیمیایی بودن من یعنی من غیرمنطقی ام پس *تو* غیرمنطقی هستی.
 
 `bb({body:"two_up", eyes:"shock"});`
 
-b: And if we're *both* irrational, then we'll *never* figure out how to be fulfilled and happy!
+b: و اگر جفتمون غیرمنطقی باشیم *هیچوقت* نمیفهمیم چطور به شادی و کمال برسیم.
 
 `bb({body:"scream_a_1"})`
 
-b: AHHH WE'RE BROKEN! SO BROKEN SO BROKEN SO BROKEN--
+b: آه ما شکسته ایم! بسیار شکسته بسیار شکسته 
 
 ```
 music(null);
@@ -1115,19 +1114,19 @@ attack("10p", "bad");
 
 `bb({body:"normal", mouth:"normal", eyes:"suspect"});`
 
-b: Hang on... "they" say that feelings are valid, that you should always accept your emotions.
+b: وایسا... "اونا" میگن احساسات شما معتبره و باید بپذیریدشون.
 
 `bb({eyes:"suspect_r"});`
 
-b: But "they" also say emotions are irrational, that emotions are not to be trusted.
+b: ولی "همونا" میگن احساسات غیرمنطقی و غیرقابل اعتمادن.
 
 `bb({eyes:"angry"});`
 
-b: Oh my gosh, "they" have been lying to us this whole time!
+b: وای خدا من! "اونا" داشتن کل عمررر بهمون دروغ میگفتن.
 
 `bb({body:"scream_a_1"})`
 
-b: "THEY" FEED US CONTRADICTIONS TO MAKE US DEPENDENT ON THE SELF-HELP INDUSTRIAL COMPLEX
+b: "اونا" در ما تناقض ایجاد میکنن تا ما رو به صنعت مشاوره وابسته کنن!
 
 ```
 music(null);
@@ -1146,62 +1145,61 @@ attack("10p", "harm");
 
 h: ...
 
-h: I hate this. God it hurts so much I *hate* this.
+h: من ازین متنفرم. خدایا خیلی دردآوره! من ازش *متنفرم*
 
-h: I can't appease you. I can't ignore you. I can't fight you. 
+h: نمیتونم آرومت کنم. نمیتونم نادیده ات بگیرم. نمیتونم باهات بجنگم.
 
 `bb({eyes:"suspect"});`
 
-h: No matter what I do, I can't seem to get rid of yo--
+h: مهم نیست چیکار میکنم. انگار نمیتونم از دستت خلاص بش
 
 `bb({body:"cry_1"});`
 
-b: Well maybe you're NOT *SUPPOSED* TO GET RID OF ME.
+b: خب شاید نباید از دست من *خلاص* بشی.
 
 `bb({body:"cry_2"});`
 
-b: How do you think *I* feel, human?!
+b: فکر میکنی *من* چه حسی دارم انسان؟
 
 `bb({body:"cry_4", mouth:"cry", eyes:"cry"})`
 
-b: I'm trying my best to be your guard-dog, but you keep seeing me as some Big Bad Wolf!
+b: من دارم سخت تلاش میکنم سگ نگهبانت باشم ولی تو من رو یه گرگ بزرگ بد میبینی!
 
-b: So I try even *harder* to alert you to danger! *More* danger! *Different* danger!
+b: پس من سخت تر تلاش میکنم بهت هشدار بدم. *خطر* بیشتر. *خطر* متفاوت.
 
 `bb({eyes:"cry_2"})`
 
-b: But no matter how hard I try to protect you, you *still* think I'm your enemy!
+b: ولی مهم نیست چقدر تلاش میکنم ازت محافظت کنم. تو باز من رو دشمن خودت میبینی.
 
 `bb({body:"cry_5"});`
 
-b: What am I doing wrong?!
+b: کجا رو دارم اشتباه میرم؟!
 
 `bb({body:"cry_2"});`
 
-b: I *know* I suck at my job. But I'm *trying*, human!
+b: *میدونم* دارم میرینم ولی دارم *تلاش* میکنم انسان!
 
 `bb({body:"cry_3"});`
 
-b: ...I'm trying.
-
+b: ...دارم تلاش می کنم.
 `bb({body:"cry_6", mouth:"right", eyes:"cry_r_1"});`
 
-b: You don't have to heed my warnings, or agree with me, or even *like* me.
+b: لازم نیست به هشدارهای من توجه کن، تاییدم کنی، دوستم داشته باشی.
 
 `bb({eyes:"cry_r_2"});`
 
-b: I just... all I want is for you to be patient with me.
+b: من فقط ... تنها چیزی که ازت میخوام اینه که تحملم کنی!
 
 `bb({eyes:"cry_r_3"});`
 
-b: I just want for you to sit with me for a while, instead of turning away and--
+b: فقط میخوام بدون اینکه روت رو برگردونی کنارم بشینی و-
 
 ```
 bb({eyes:"cry_r_4"});
 hong({body:"listen"});
 ```
 
-r: Hey.
+r: سلام!
 
 ```
 hong({body:"look"});
@@ -1218,21 +1216,21 @@ publish("act2",["party_hunter",2]);
 Game.WORDS_HEIGHT_BOTTOM = 230;
 ```
 
-r: Looks like you're caught in a fight with yourself, kid.
+r: انگار با خودت درگیری بچه!
 
 ```
 publish("act2",["party_hunter",3]);
 publish("act2",["party_hong",13]);
 ```
 
-h2: Was it that obvious?
+h2: انقدر واضح بود؟
 
 ```
 publish("act2",["party_hunter",4]);
 publish("act2",["party_hong",14]);
 ```
 
-r: You were, uh, mumbling at your hoodie about {{_.a2_hoodie_callback}} or something.
+r: داشتی زیر لب .. اممم... با هودیت درباره  {{_.a2_hoodie_callback}} یا یه همچین چیزی غرغر میکردی.
 
 ```
 publish("act2",["party_hunter",13]);
@@ -1248,7 +1246,7 @@ setTimeout(function(){
 },801);
 ```
 
-h2: oh god i'm such a mess.
+h2: وای خدایا من خیلی آشفته ام.
 
 ```
 publish("act2",["party_hunter",7]);
@@ -1256,7 +1254,7 @@ publish("act2",["party_hong",18]);
 sfx("squeak");
 ```
 
-r: Hey. You're not alone, friend. Anxiety's super common.
+r: هی تو تنها نیستی رفیق. اضطراب خیلی رایجه!
 
 ```
 publish("act2",["party_hunter",5]);
@@ -1264,38 +1262,38 @@ publish("act2",["party_hong",19]);
 ```
 
 {{if _.act1_ending=="fight"}}
-r: Heck, just yesterday, I heard someone on campus had a nervous breakdown and smashed their phone!
+r: همین دیروز شنیدم یکی تو محوطه دانشگاه حمله عصبی بهش دست داده و گوشیشو شکسته!
 {{/if}}
 
 {{if _.act1_ending=="flight"}}
-r: Heck, just yesterday, I heard someone curled up into an armadillo ball and cried in public!
+r: همین دیروز شنیدم یکی وسط جمع تو خودش حلقه زده و شروع کردن گریه کردن!
 {{/if}}
 
 ```
 publish("act2",["party_hunter",2]);
 ```
 
-r: Listen: I know what it's like to have that animal in your head.
+r: گوش کن: من میدونم چه حسی داره که اون حیوون رو تو سرت داشته باشی.
 
 ```
 publish("act2",["party_hunter",8]);
 ```
 
-r: We *all* do. That's why I throw these parties every weekend, to forget our worries, forget that animal.
+r: همه ی ما داریم. بخاطر همین من هر آخرهفته مهمونی میگیرم. تا نگرانی هامون، اون حیوون رو یادمون بره.
 
 ```
 publish("act2",["party_hunter",9]);
 publish("act2",["party_hong",20]);
 ```
 
-h2: but my anxiety...
+h2: ولی اضطراب من...
 
 ```
 publish("act2",["party_hunter",2]);
 publish("act2",["party_hong",21]);
 ```
 
-r: Don't worry, kid. I used to be like you. But then I found a little trick to get that negative voice to shut up forever...
+r: نترس بچه. منم مثل تو بودم. ولی یه ترفند کوچیک پیدا کردم تا اون صدای منفی رو واسه همیشه خفه کنم!
 
 ```
 publish("act2",["party_hunter",3]);
@@ -1325,14 +1323,14 @@ sfx("rustle2");
 publish("act2",["party_hunter",11]);
 ```
 
-r: My own specialty blend. It's a bit stronger than... well, anything legal really.
+r: ترکیب خاص خودم! یکم ... خب، از هر یز قانونی دیگه ای قوی تره.
 
 ```
 publish("act2",["party_hunter",12]);
 publish("act2",["party_hong",24]);
 ```
 
-r: Bottoms up, ^bee-yatch^!
+r: برو بالا! لعنت!
 
 ```
 hong({body:"hold"});
@@ -1345,27 +1343,27 @@ publish("hp_show");
 
 (...3500)
 
-[Oh my God.](#act2g_1) `Game.OVERRIDE_CHOICE_LINE=true`
+[وای خدای من.](#act2g_1) `Game.OVERRIDE_CHOICE_LINE=true`
 
-[This is a bad coping mechanism.](#act2g_2) `Game.OVERRIDE_CHOICE_LINE=true`
+[این سازوکار مقابله ای بدیه.](#act2g_2) `Game.OVERRIDE_CHOICE_LINE=true`
 
-[Don't take drinks from strangers.](#act2g_3) `Game.OVERRIDE_CHOICE_LINE=true`
+[از غریبه ها نوشیدنی نگیر.](#act2g_3) `Game.OVERRIDE_CHOICE_LINE=true`
 
 # act2g_1
 
-b: O--
+b: و--
 
 (#act2g)
 
 # act2g_2
 
-b: T--
+b: ا--
 
 (#act2g)
 
 # act2g_3
 
-b: D--
+b: ا--
 
 (#act2g)
 
@@ -1384,34 +1382,34 @@ hong({body:"forward", mouth:"forward"});
 bb({body:"frazzled", mouth:"frazzled", eyes:"frazzled"});
 ```
 
-h: Mmm, what an exquisite palette!
+h: ممم! چه ترکیب بی نظیری!
 
-h: A full-bodied flavor of "shut your mind up," with a subtle aftertaste of "never feel anything ever again"!
+h: طعمی قوی از ذهنت رو خاموش کن با ته مزه ی دیگر هیچ چیز حس نکن!
 
-b: This is bad, human. This is really, really bad.
+b: این بده انسان. این واقعا واقعا بده.
 
-[This is *actually* how addiction starts.](#act2h_opt1) `Game.OVERRIDE_CHOICE_LINE=true`
+[اعتیاد *دقیقا* اینجوری شروع میشه.](#act2h_opt1) `Game.OVERRIDE_CHOICE_LINE=true`
 
-[I *knew* the host was deeply messed up!](#act2h_opt3) `Game.OVERRIDE_CHOICE_LINE=true`
+[من *می دونستم* میزبان متعادل نیست.](#act2h_opt3) `Game.OVERRIDE_CHOICE_LINE=true`
 
-[Also, they could have drugged that!](#act2h_opt2) `Game.OVERRIDE_CHOICE_LINE=true`
+[ممکنه مسمومش کرده باشن.](#act2h_opt2) `Game.OVERRIDE_CHOICE_LINE=true`
 
 
 # act2h_opt1
 
-b: This is *actu*--
+b: اعتیاد دقی-
 
 (#act2h)
 
 # act2h_opt2
 
-b: Also, they co--
+b: ممکنه مسمو-
 
 (#act2h)
 
 # act2h_opt3
 
-b: I *knew* th--
+b: من میدونستم میزب-
 
 (#act2h)
 
@@ -1430,17 +1428,17 @@ hong({body:"back", mouth:"back"});
 bb({body:"panicked", mouth:"panicked", eyes:"panicked"});
 ```
 
-h: Delicious, *and* cheaper than therapy!
+h: خوشمزه ست! و ارزون تر از تراپیه.
 
-b: HUMAN PLEASE STOP
+b: انسان التماس میکنم بس کن.
 
-h: Hehehe!
+h: هه هه هه !
 
-h: And what are *you* gonna do about it, ^asshole^?
+h: چیکار میخوای بکنی کثافت؟!
 
-b: I'm so sorry, human.
+b: من خیلی متاسفم انسان.
 
-b: I'm going to have to use my SPECIAL ATTACK
+b: میخوام از حمله ویژه ام استفاده کنم.
 
 ```
 bb({body:"special_a"});
@@ -1467,9 +1465,8 @@ hong({body:"forward", mouth:"forward"});
 sfx("charging");
 ```
 
-h: What's this ^crap^?
-
-h: You're gonna yap more stupid *words* at me to--
+h: این دیگه چه صیغه ایه؟
+h: قراره حرف های احمقانه بیشتری بهم بزنی و-
 
 ```
 bb({body:"special_c"});
@@ -1505,45 +1502,45 @@ setTimeout(function(){
 
 (...2500)
 
-h: WHAT THE ^HELL^ WAS THAT
+h: *این چه کوفتی بود؟*
 
-b: I'm sorry. I needed to show you the consequences.
+b: متاسفم. باید عواقبش رو نشونت میدادم.
 
 {{if _.SPECIAL_ATTACK=="harm"}}
-h: I COULD *SEE* MY OWN CORPSE. I COULD *FEEL* THE SENSATION OF BEING ACTUALLY DEAD.
+h: میتونستم جسدم رو *ببینم*! میتونستم مرگ رو *حس کنم*!
 {{/if}}
 
 {{if _.SPECIAL_ATTACK=="alone"}}
-h: I COULD *SEE* EVERYONE'S LOOK OF DISGUST. I COULD *HEAR* ALL THE THINGS THEY SAID.
+h: میتونستم نگاه های منزجر بقیه رو *ببینم*! میتونستم کلماتشون رو *بشنوم*!
 {{/if}}
 
 {{if _.SPECIAL_ATTACK=="bad"}}
-h: I COULD *HEAR* THE CRUNCHING OF RIBS. I COULD *TASTE* THE BLOOD IN THE AIR.
+h: میتونستم صدای خرد شدن دنده ام رو *بشنوم*! میتونستم بوی خون رو توی هوا *حس کنم*!
 {{/if}}
 
-b: I'm sorry, human.
+b: متاسفم انسان.
 
-n: *FINISH THEM*
+n: *به او پایان بده.*
 
-[{FIGHT: Punch the host.}](#act2j_fight) `Game.OVERRIDE_CHOICE_LINE=true`
+[{FIGHT: به میزبان مشت بزن.}](#act2j_fight) `Game.OVERRIDE_CHOICE_LINE=true`
 
-[{FLIGHT: Let's get out of here.}](#act2j_flight) `Game.OVERRIDE_CHOICE_LINE=true`
+[{FLIGHT: بیا از اینجا در بریم.}](#act2j_flight) `Game.OVERRIDE_CHOICE_LINE=true`
 
 # act2j_fight
 
 `bb({ eyes:"angry" });`
 
-b: That psychopath was taking advantage of you.
+b: اون روانی داشت ازت بهره کشی می کرد.
 
-b: They were trying to corrupt you, make you as messed up as they are!
+b: داشتن تلاش می کردن فاسدت کنن. به اندازه خودشون آشفته ات کنن!
 
 `bb({ body:"yell_angry_1" });`
 
-b: Punch that jerk! Knock their friggin' lights out!
+b: بزن تو دهن اون احمق! دمارش رو دربیار!
 
 `bb({ body:"final_1" });`
 
-b: PUNCH THEM PUNCH THEM PUNCH THEM PUNCH THEM PUNCH THEM PUNCH THEM PUNCH THEM PUNCH THE--
+b: بزنش بزنش بزنش بزنش بزنش بزنش بزنش بزنش بزنش بزنش...
 
 `_.a2_ending = "fight";`
 
@@ -1551,15 +1548,15 @@ b: PUNCH THEM PUNCH THEM PUNCH THEM PUNCH THEM PUNCH THEM PUNCH THEM PUNCH THEM 
 
 # act2j_flight
 
-b: I *knew* all these partygoers were deeply messed up. They all dull their pain with horrible things!
+b: من *میدونستم* همه این مهمونی برو ها آشفته ان. میدونستم دردهاشون رو با چیزهای بدی آروم میکنن!
 
 `bb({ body:"yell_1" });`
 
-b: And they're tricking you into doing the same thing! They're corrupting you! We need to get out!
+b: و دارن تو رو هم گول میزنن که همین کارو بکنی. دارن تو رو هم فاسد میکنم. باید بریم!
 
 `bb({ body:"final_1" });`
 
-b: GET OUT GET OUT GET OUT GET OUT GET OUT GET OUT GET OUT GET OUT GET OUT GET OU--
+b: بزن به چاک بزن به چاک بزن به چاک بزن به چاک بزن به چاک بزن به-
 
 `_.a2_ending = "flight";`
 
@@ -1588,7 +1585,7 @@ publish("act2",["party_hunter",14]);
 Game.WORDS_HEIGHT_BOTTOM = 230;
 ```
 
-r: You alright, kid?
+r: حالت خوبه بچه؟!
 
 `publish("act2",["party_hunter",13]);`
 
@@ -1620,7 +1617,7 @@ publish("act2",["dee",6]);
 publish("act2",["dum",6]);
 ```
 
-r: Y-you...
+r: ت-تو...
 
 ```
 publish("act2",["party_hunter",23]);
@@ -1630,22 +1627,22 @@ publish("act2",["dum",5]);
 music('party1', {volume:0.6, fade:6});
 ```
 
-r: are *kinky*.
+r: *عجیب و غریبی*
 
-r: I like that. Come to my party next weekend, cutie.
+r: من اینو دوس دارم! هفته بعد هم بیا گوگولی!
 
 ```
 publish("act2",["party_hunter",19]);
 publish("act2",["party_hong",36]);
 ```
 
-h2: ok bye, ciao, adios, au revoir
+h2: باشه. خدافظ. خدانگهدار. بدرود.
 
-r: The animal might have won today, but come back, and I'll mix something even stronger for you!
+r: شاید حیوون امروز برنده شده باشه ولی برگرد. یه چیز قویتر برات درست میکنم!
 
-h2: sayōnara, auf wiedersehen, zài jiàn, shalom
+h2: موفق باشید. بای. فی امان الله. میبینمت. 
 
-r: You and me, kid, we'll show that beast who's boss!
+r: تو و من! به اون حیوون نشون میدیم رییس کیه!
 
 (#act2k_end)
 
@@ -1653,23 +1650,23 @@ r: You and me, kid, we'll show that beast who's boss!
 
 `publish("act2",["party_hong",36]);`
 
-h2: ok sorry i have to run
+h2: باشه ببخشید من باید بدوم.
 
 `publish("act2",["party_hunter",16]);`
 
-r: ^Damn^ it. The animal won today, huh?
+r: لعنت. حیوون امروز برد. ها؟
 
 `publish("act2",["party_hunter",15]);`
 
-h2: no no, just, uh, gotta run a marathon. gotta go fast.
+h2: نه نه فقط... اممم... باید برم دوی ماراتن. باید سریع بدوم.
 
 `publish("act2",["party_hunter",19]);`
 
-r: Come to my party next weekend, cutie. I'll mix something even stronger for you.
+r: آخرهفته دیگه بیا مهمونی گوگولی. یه چیز قویتر برات درست میکنم.
 
-h2: ok thanks gonna run run run run run
+h2: باشه ممنون باید بدوم بدوم بدوم بدوم بدوم
 
-r: You and me, kid, we'll show that beast who's boss!
+r: تو و من بچه! به اون حیوون نشون میدیم رییس کیه.
 
 (#act2k_end)
 
@@ -1692,13 +1689,13 @@ sfx("whoosh");
 
 (...1000)
 
-b: Human! Are you okay?!
+b: انسان! خوبی؟!
 
 ```
 publish("act2", ["act2_end","next"]);
 ```
 
-b: Gosh, that was *close.* We really could've--
+b: خدایا. نزدیک بود. ما ممکن بود واقعا...
 
 ```
 Game.clearText();
@@ -1716,11 +1713,11 @@ sfx("hit");
 
 (...1000)
 
-h: I'm coming back to the party next weekend.
+h: من هفته بعد برمیگردم مهمونی!
 
-h: The next time we fight, I'm not just going to *defeat* you...
+h: تو دعوای بعدی قرار نیست فقط شکستت بدم...
 
-h: I'm going to ^fuck^ing *kill* you.
+h: میکشمت عوضی.
 
 ```
 Game.clearText();
