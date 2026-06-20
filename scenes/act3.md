@@ -6,7 +6,7 @@ Game.WORDS_HEIGHT_BOTTOM = 205;
 sfx("cheers");
 ```
 
-r: Cheers!
+r: ایول!
 
 ```
 publish("act3",["roofhunter",1]);
@@ -23,41 +23,41 @@ publish("act3",["roofhunter",3]);
 publish("act3",["roofhong",3]);
 ```
 
-h2: *Ah* that hits the spot.
+h2: *آه.* زدی تو خال.
 
 ```
 publish("act3",["roofhunter",2]);
 publish("act3",["roofhong",2]);
 ```
 
-r: You know, kid...
+r: میدونی بچه؟...
 
 ```
 publish("act3",["roofhunter",3]);
 publish("act3",["roofhong",6]);
 ```
 
-h2: Specifically, the spots hit are my left and right amygdala.
+h2: در واقع؛ زدی تو آمیگدالای چپ و راست من.
 
 ```
 publish("act3",["roofhunter",8]);
 publish("act3",["roofhong",5]);
 ```
 
-r: You remind me of myself when I was younger. Back when I was tormented by the animal in my head.
+r: تو من رو یاد جوونی خودم میندازی. وقتی داشتم از دست اون حیوون عذاب میکشیدم.
 
 ```
 publish("act3",["roofhunter",9]);
 publish("act3",["roofhong",2]);
 ```
 
-r: I'm so grateful I can pay it forward, and help you kill the beast the way I killed mine.
+r: خیلی خوشحالم که میتونم کمکت کنم اون هیولا رو مثل خودم بکشیش.
 
 ```
 publish("act3",["roofhunter",2]);
 ```
 
-r: Hey, quick question: truth or da--
+r: هی! زودباش: جرات یا حق-
 
 ```
 publish("act3",["roofhunter",3]);
@@ -65,7 +65,7 @@ publish("act3",["roofhong",7]);
 publish("act3-alpha", ["dizzyhong",0]);
 ```
 
-h2: DARE!
+h2: جرات!
 
 ```
 publish("act3-alpha", ["dizzyhong",1]);
@@ -73,14 +73,14 @@ publish("act3",["roofhunter",10]);
 publish("act3",["roofhong",2]);
 ```
 
-r: Haha! Good.
+r: هاها! عالیه!
 
 ```
 publish("act3",["roofhunter",21]);
 publish("act3",["roofhong",4]);
 ```
 
-r: Ok. You see that baby-blue swimming pool down there?
+r: خب. اون استخر آبی کوچولو رو اون پایین می بینی؟
 
 ```
 publish("act3-alpha", ["dizzyhong",0]);
@@ -88,14 +88,14 @@ publish("act3",["roofhunter",11]);
 publish("act3",["roofhong",9]);
 ```
 
-h2: Yeah? Six floors down?
+h2: آره ... شش طبقه پایین تر؟
 
 ```
 publish("act3",["roofhunter",10]);
 publish("act3",["roofhong",8]);
 ```
 
-r: Jump in.
+r: بپر توش.
 
 ```
 publish("act3",["roofhunter",11]);
@@ -108,39 +108,39 @@ h2: ...
 publish("act3",["roofhong",11]);
 ```
 
-h2: Wait, what?
+h2: وایسا. چی؟
 
 ```
 publish("act3",["roofhong",10]);
 publish("act3",["roofhunter",2]);
 ```
 
-r: The animal's started whining, hasn't it?
+r: حیوون شروع کرده به ناله کردن. نه؟
 
 ```
 publish("act3",["roofhunter",23]);
 ```
 
-r: *Oh nooooo it's dangerous, don't do iiiiit.*
+r: *وای نههه این خطرناکههه انجامش ندههه*
 
 ```
 publish("act3",["roofhunter",22]);
 ```
 
-r: But that's exactly why we need death-defying thrills! Party hard! Carpe diem! Snort coke off a hooker's ^ass^, #YOLO!
+r: بخاطر همین هیجان زیادی میخوایم! آرههه! خوش باش! دهنشو سرویس کن!
 
 ```
 publish("act3",["roofhunter",10]);
 ```
 
-r: Show that animal we don't give two *^dick^s* about its ^bitch^ing! Jump in.
+r: به اون حیوون نشون بده به کتفمونم نیس!
 
 ```
 publish("act3",["roofhunter",11]);
 publish("act3",["roofhong",13]);
 ```
 
-h2: Uh, but sometimes, um... fear has a point...
+h2: ام.. ولی .. بعضی وقتا.. ترس یه دلیلی داره.
 
 ```
 publish("act3",["roofhunter",5]);
@@ -156,43 +156,43 @@ publish("act3",["roofhunter",6]);
 publish("act3",["dd",1]);
 ```
 
-r: I'm sorry, did you fall for that McMindfulness propaganda that claims feeling bad is *good?*
+r: ودف؟ اون تبلیغات روانشناسی که میگن "احساس بد *خوب* است" رو باورت شده؟
 
 ```
 publish("act3",["roofhunter",17]);
 ```
 
-r: The ^assholes^ who run this world give the rest of *us* anxiety and depression,
+r: همون عوضی هایی که اینا رو اداره میکنن باعث افسردگی و اضطراب مان.
 
 ```
 publish("act3",["roofhunter",18]);
 ```
 
-r: Then make TED Talks to tell us to "accept" being ^fucked^ over, and "embrace" that sadistic demon in our heads!
+r: سخنرانی های تد میگیرن تا بپذیریم بدبختیم و باید اون هیولای سادیست رو *در آغوش* بکشیم!!
 
 ```
 publish("act3",["roofhunter",6]);
 ```
 
-r: Kid, I know that *you* know that animal *hurts* people like us. It *tortures* people like us.
+r: بچه؛ میدونم که میدونی اون حیوون چقدر امثال ما رو *آزار* میده. *شکنجه* میکنه.
 
 ```
 publish("act3",["roofhunter",19]);
 ```
 
-r: It's not our friend. It's a rabid beast, which either needs to be *tranquilized*,
+r: اون دوستمون نیست. یه وحشی هاره که باید رام بشه.
 
 ```
 publish("act3",["roofhunter",20]);
 ```
 
-r: Or have a *bullet put in its skull*.
+r: یا یه گلوله تو کله اش فرو شه.
 
 ```
 publish("act3",["roofhunter",27]);
 ```
 
-r: Otherwise, you're going to let it win.
+r: وگرنه می بره.
 
 ```
 publish("act3",["roofhunter",31]);
@@ -200,7 +200,7 @@ publish("act3",["roofhong",14]);
 publish("act3",["dd",2]);
 ```
 
-h2: No. You're wrong.
+h2: نه. اشتباه می کنی!
 
 ```
 publish("act3",["roofhunter",13]);
@@ -210,7 +210,7 @@ music('battle_dark', {volume:1.0}, function(){
 });
 ```
 
-h2: I'm not going to let it win.
+h2: من نمی ذارم ببره!
 
 ```
 publish("act3",["roofhunter",25]);
@@ -219,7 +219,7 @@ publish("act3-alpha", ["transition",1]);
 publish("act3",["dd",6]);
 ```
 
-r: ^Fuck^ yeah! I believe in you, babe! Kill it! <3
+r: آرههه! لعنتی. من بهت ایمان دارم بچه! بکشش!
 
 (#act3a)
 
@@ -240,38 +240,38 @@ _.act3_bb_body = 1;
 publish("hp_show");
 ```
 
-b: no no no no no no
+b: نه نه نه نه نه نه
 
-n: THIS CHAPTER HAS TWO POSSIBLE ENDINGS. ONE IS *VERY, VERY BAD.*
+n: این بخش تو پایان ممکن دارد. یکی *خیلی خیلی* بد است.
 
-b: NO NO NO NO NO NO NO NO NO NO NO NO NO NO
+b: نه نه نه نه نه نه نه نه نه نه نه
 
-n: CHOOSE WISELY. PROTECT YOUR HUMAN
+n: هوشمندانه انتخاب کن. از انسانت محافظت کن.
 
 `bb({ eyes:"oh_crap", mouth:"normal_talk", MOUTH_LOCK:true });`
 
-b: AAAAAAAAAAAAAAAAAA
+b: قلدبهخذدلقذخهثدخحثقئخقحثنثقخح
 
 `bb({ mouth:"normal" });`
 
-n: GOOD LUCK
+n: موفق باشی
 
 ```
 Game.clearText();
 bb({ eyes:"start" });
 ```
 
-[Human, you could actually DIE here!](#act3a_harm) `Game.OVERRIDE_CHOICE_LINE=true`
+[تو واقعا ممکنه اینجا بمیری انسان.](#act3a_harm) `Game.OVERRIDE_CHOICE_LINE=true`
 
-[This is stupid and self-destructive!](#act3a_bad) `Game.OVERRIDE_CHOICE_LINE=true`
+[کارت احمقانه و خود ویرانگرانه ست.](#act3a_bad) `Game.OVERRIDE_CHOICE_LINE=true`
 
-[These sickos aren't really your friends!](#act3a_alone) `Game.OVERRIDE_CHOICE_LINE=true`
+[این مریضا واقعا دوستت نیستن.](#act3a_alone) `Game.OVERRIDE_CHOICE_LINE=true`
 
 # act3a_harm
 
 `bb({ MOUTH_LOCK:true, mouth:"normal_talk" });`
 
-b: H--
+b: ت--
 
 (#act3a_after)
 
@@ -279,7 +279,7 @@ b: H--
 
 `bb({ MOUTH_LOCK:true, mouth:"normal_talk" });`
 
-b: T--
+b: ک--
 
 (#act3a_after)
 
@@ -287,7 +287,7 @@ b: T--
 
 `bb({ MOUTH_LOCK:true, mouth:"normal_talk" });`
 
-b: T--
+b: ا--
 
 (#act3a_after)
 
@@ -307,9 +307,9 @@ hong({ body:"normal" });
 bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });
 ```
 
-h: You know, I might've believed you... if you hadn't tried that a zillion times before.
+h: میدونی؟ اگه قبلا میلیون ها بار امتحان نکرده بودی شاید باورت میکردم.
 
-h: You're the wolf who cried wolf.
+h: خودتو نخ نما کردی.
 
 ```
 bb({ eyes:"sad" });
@@ -354,44 +354,43 @@ hong({ body:"normal" });
 bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });
 ```
 
-h: You tried that too.
+h: اونم امتحان کردی.
 
-b: human, please...
+b: انسان، خواهش میکنم...
 
 `hong({ eyes:"look_right" });`
 
-h: Oh I'm *sorry* Big Pharma doesn't approve of my self-medication.
+h: اوه! متاسفم! یافته های پزشکی با روش خود درمانیم موافق نیستن؟
 
-h: Look ^asshole^, we *all* have a way of shutting you the ^fuck^ up.
+h: ببین کثافت: هرکی یه راهی داره تا تو رو خفه کنه.
 
 `hong({ body:"look_up", eyes:"look_up" });`
 
-h: Some people throw themselves into work.
+h: بعضی آدما خودشون رو غرق کار میکنن.
 
 `hong({ body:"look_down", eyes:"look_down" });`
 
-h: Some people throw themselves into sex, drugs, and refreshing their Facebook feed.
+h: بعضی غرق مواد مخدر، رابطه جنسی، فضای مجازی.
 
 `hong({ body:"normal", eyes:"look_right" });`
 
-h: Some people throw themselves into other people. 
+h: بعضی خودشونو غرق بقیه میکنن.
 
 `hong({ eyes:"angry" });`
 
-h: I'm going to throw myself into that swimming pool.
+h: من میخوام خودمو تو استخر اون پایین غرق کنم!
 
-[You're drunk and it's SIX FLOORS DOWN](#act3_bad_1_harm)
+[تو مستی و این 6 طبقه ست.](#act3_bad_1_harm)
 
-[Dang it, this is the thanks I get?!](#act3_bad_1_insult) `bb({eyes:"angry"});`
+[بشکنه دستتی که نمک نداره. این تشکرته؟](#act3_bad_1_insult) `bb({eyes:"angry"});`
 
-[Okay, I admit it. I messed up.](#act3_good_1) `bb({mouth:"sorry", eyes:"sorry_down"});`
+[خیلی خب. اعتراف میکنم. گند زدم.](#act3_good_1) `bb({mouth:"sorry", eyes:"sorry_down"});`
 
 # act3_bad_1_harm
 
-b: Even if you land in the water, the surface tension will crack your ribs and give you a concussion *at the least!*
+b: حتی اگه *توی آب* فرود بیای کشش سطحی دنده هات رو میشکنه و حداقل ضربه مغزی میشی.
 
-h: Eh.
-
+h: عه
 ```
 hong({body:"drink"});
 bb({body:"attacked"});
@@ -406,7 +405,7 @@ hong({ body:"normal", mouth:"angry", eyes:"angry" });
 bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });
 ```
 
-h: I saw a Russian guy do this on YouTube once.
+h: یه بار یه پسر روس تو یوتیوب دیدم که این کارو کرد.
 
 (#act3_bad_2)
 
@@ -414,13 +413,13 @@ h: I saw a Russian guy do this on YouTube once.
 
 `hong({ eyes:"look_right" });`
 
-h: I- Excuse me, the *thanks?*
+h: ب.. ببخشید؟ *تشکر*؟!!
 
 `bb({ eyes:"angry" });`
 
-b: This is exactly why I *exist!* Because humans can't be trusted to protect themselves!
+b: بله. من اصلا وجود دارم که از تو محافظت کنم.
 
-b: I've been trying to protect your stupid butt all my life and now you're just going t--
+b: کل زندگیم داشتم از مراقبت میکردم تا خش رو باسنت نیفته و حالا توی احمق داری...
 
 ```
 hong({body:"drink"});
@@ -442,41 +441,41 @@ bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });
 
 `hong({ body:"laugh_1" })``
 
-h: heh.
+h: هه!
 
 `hong({ body:"laugh_2" })``
 
-h: hahahaha
+h: هاهاهاهاهاها!
 
 `hong({ body:"laugh_3" })``
 
-h: HAHAHAHAHAHA
+h: *هاهاهاهاهاهاهاها!*
 
 ```
 bb({ eyes:"sorry"});
 hong({ body:"yell_1", mouth:"yell", eyes:"blank" });
 ```
 
-h: Oh WOW is that the biggest *^fuck^ing* understatement of the century!
+h: وااااو این بزرگ ترین کشف کوفتی قرنه!
 
 `hong({ body:"yell_2" });`
 
-h: Yeah, you rotting pile of blood-coated ^shit^! You messed the ^fuck^ up!
+h: آره! تیکه گه گندیده خونی! گند زدی!
 
 `hong({ body:"normal", mouth:"angry", eyes:"angry" });`
 
-h: Any other remarks, Captain Obvious?
+h: نکته دیگه ای دارید جناب؟!
 
-[But revenge on me isn't the answer!](#act3_good_1_fail_revenge) `bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });`
+[ولی انتقام گرفتن راه حل نیست.](#act3_good_1_fail_revenge) `bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });`
 
-[But this time I'm *actually* right!](#act3_good_1_fail_harm) `bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });`
+[ولی این دفعه *واقعا* حق با منه.](#act3_good_1_fail_harm) `bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });`
 
-[I've hurt you.](#act3_good_2a)
+[من بهت آسیب زدم.](#act3_good_2a)
 
 
 # act3_good_1_fail_revenge
 
-b: You need to have a healthier relationship with your emotions, rather than drown them wi--
+b: باید با احساساتت رابطه سالم تری داشته باشی. نه اینکه غرقشون کنی توی-
 
 ```
 hong({body:"drink"});
@@ -498,7 +497,7 @@ bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });
 
 # act3_good_1_fail_harm
 
-b: So please, put the bottle down and let's--
+b: پس لطفا؛ بطری رو بذار کنا و بیا-
 
 ```
 hong({body:"drink"});
@@ -523,24 +522,24 @@ bb({ body:"normal_"+_.act3_bb_body, mouth:"normal", eyes:"normal" });
 
 `bb({ eyes:"sad" });`
 
-b: please... don't...
+b: لطفا... نکن...
 
-h: Your energy bar's looking awfully low there, wolf.
+h: نوار انرژیت وحشتناک خالیه آقا گرگه!
 
-h: If I were you, I'd choose your next words very carefully.
+h: اگه جات بودم واژه های بعدیمو با دقت زیاد انتخاب میکردم!
 
 `bb({ eyes:"normal" });`
 
-[Fine. I'm done protecting you.](#act3_bad_2_jump) `bb({ mouth:"ignore", eyes:"ignore" });`
+[باشه. محافظت ازت رو تموم میکنم.](#act3_bad_2_jump) `bb({ mouth:"ignore", eyes:"ignore" });`
 
-[I was right all along.](#act3_bad_2_right)
+[من همیشه درست میگفتم.](#act3_bad_2_right)
 
-[I'm sorry.](#act3_good_2b) `bb({mouth:"sorry", eyes:"sorry_down"});`
+[ببخشید.](#act3_good_2b) `bb({mouth:"sorry", eyes:"sorry_down"});`
 
 
 # act3_bad_2_jump
 
-b: So, go ahead and jump. See what I care.
+b: خب! برو بپر! واسم مهم نیست!
 
 `hong({ eyes:"look_right", mouth:"normal", MOUTH_LOCK:true });`
 
@@ -551,14 +550,14 @@ hong({ eyes:"less_angry", mouth:"normal" });
 bb({ eyes:"ignore_oh_crap" });
 ```
 
-h: Okay then. Bottoms up.
+h: خیلی خب. بریم!
 
 ```
 bb({ mouth:"normal", eyes:"oh_crap" });
 Game.OVERRIDE_TEXT_SPEED = 2;
 ```
 
-b: WAIT NO THAT WAS REVERSE PSYCHOLOGY YOU WERE SUPPOSED TO DO THE *OPPOSITE* OF WHAT I SA--
+b: *نه وایسا وایسا وایسا نه این روانشناسی معکوسه تو باید برعکس چیزی که گفتم رو-*
 
 (#act3_bad_3)
 
@@ -568,13 +567,13 @@ b: WAIT NO THAT WAS REVERSE PSYCHOLOGY YOU WERE SUPPOSED TO DO THE *OPPOSITE* OF
 
 `bb({ eyes:"angry" });`
 
-b: You *are* putting yourself in danger. Your so-called friends *are* using you. And *you* are using your so-called friends.
+b: داری خودتو نابود میکنی. به اصطلاح دوستات دارن ازت استفاده میکنن. تو داری از به اصطلاح دوستات استفاده میکنی.
 
 `bb({ eyes:"sad" });`
 
-b: So please, human... why don't you believe me?!
+b: پس لطفا! انسان!... تو من رو باور نداری؟
 
-h: Because you never believed in *me*.
+h: نه. تو هیچ وقت من رو باور نداشتی.
 
 (#act3_bad_3)
 
@@ -583,13 +582,13 @@ h: Because you never believed in *me*.
 
 `bb({ eyes:"angry" });`
 
-b: Other guard-wolves have humans who actually take time to patiently train them, to *learn* to work together,
+b: بقیه گرگ های نگهبان انسان هایی دارن که *واقعا* برای آموزششون وقت میذارن.
 
-b: Rather than hate the guard-wolves for trying to protect them! So why can't you jus--
+b: بجای اینکه از گرگ های نگهبانشون بابت محافظت کردن متنفر باشن! چرا نمیتونی فقط-
 
 `bb({ eyes:"normal" });`
 
-h: Wrong ^fuck^ing answer.
+h: پاسخ نادرست!
 
 (#act3_bad_3)
 
@@ -614,29 +613,29 @@ bb({ body:"dead" });
 
 (...999)
 
-h: *"The only thing to fear is fear itself."*
+h: *"تنها چیزی که باید از آن ترسید ترس است."*
 
 `hong({ body:"look_up", mouth:"happy", eyes:"blank" });`
 
-h: *"Don't worry, be happy!"*
+h: *نترس! خوشحال باش!*
 
 `hong({ body:"normal", mouth:"normal", eyes:"normal" });`
 
-h: All the wise folk of our time agree: negative emotions are *bad!*
+h: هر آدم عاقلی میدونه احساسات منفی *بدن*.
 
 `hong({ eyes:"less_angry" });`
 
-h: Duh! That's why they're called *negative!*
+h: خب! بخاطر همین بهشون میگیم منفی.
 
-b: human... please...
+b: انسان... خواهش میکنم...
 
 `hong({ eyes:"normal" });`
 
-h: A while back, I said: “I just want to be free from all this pain.”
+h: یه ذره پیش گفتم فقط میخوام از این همه درد رها بشم!
 
-h: I got my wish. I no longer feel pain, or fear, or anxiety...
+h: خب به آرزوم رسیدم! دیگه نه درد دارم، نه ترس و نه اضطراب.
 
-h: I don't feel anything at all.
+h: کلا هیچی حس نمیکنم.
 
 `_.a3_ending = "jump";`
 
@@ -648,22 +647,22 @@ h: I don't feel anything at all.
 
 `bb({mouth:"sorry", eyes:"sorry_down"});`
 
-b: I was so obsessed with making sure nothing else hurt you, that I didn't realize *I* was creating the hurt.
+b: من انقدر وسواس داشتم که هیچی بهت آسیب نرسونه که متوجه نشدم *خودم* دارم بهت آسیب میزنم...
 
 ```
 bb({ eyes:"sorry"});
 hong({ body:"yell_2", mouth:"yell", eyes:"blank" });
 ```
 
-h: NO. S^HIT^.
+h: نه! تف!
 
 `hong({ body:"yell_1" });`
 
-h: ^GODDAMN^. It really took you this long to finally figure it out?!
+h: واقعا انقدر طول کشید تا بفهمی احمق؟!
 
 `hong({ body:"cry", mouth:"cry", eyes:"blank" });`
 
-h: You could've saved us so much trouble, you big fluffy dumb^ass^. Why didn't you realize this sooner?...
+h: این همه مدت میتونستی ازم محافظت کنی! حالا فهمیدی احمق کونی؟
 
 `_.apologized_for_hurt = true;`
 
@@ -675,13 +674,13 @@ h: You could've saved us so much trouble, you big fluffy dumb^ass^. Why didn't y
 
 `hong({ body:"normal", mouth:"angry", eyes:"look_right" });`
 
-h: ...you're *sorry.*
+h: تو *متاسفی*
 
 `hong({ eyes:"angry", MOUTH_LOCK:true });`
 
 h: ...
 
-h: Sorry for *what*?
+h: برای چی *ببخشمت*؟
 
 (#act3_good_2q)
 
@@ -703,22 +702,22 @@ h: Sorry for *what*?
 
 `hong({ body:"normal", mouth:"angry", eyes:"less_angry" });`
 
-[I'm sorry I wasn't a good protector.](#act3_good_3_protector)
+[ببخشید که محافظ خوبی نبودم.](#act3_good_3_protector)
 
-[I'm sorry I didn't respect you.](#act3_good_3_respect)
+[ببخشید که بهت احترام نذاشتم.](#act3_good_3_respect)
 
-[I'm sorry.](#act3_good_4)
+[متاسفم.](#act3_good_4)
 
 
 # act3_good_2q_not_already_apologized
 
 `hong({ body:"normal", mouth:"angry", eyes:"angry" }, 0);`
 
-[I'm sorry I have a terrible human!](#act3_bad_2_terrible) `bb({mouth:"normal", eyes:"normal"})`
+[متاسفم که یه انسان افتضاح داشتم!](#act3_bad_2_terrible) `bb({mouth:"normal", eyes:"normal"})`
 
-[I'm sorry I didn't respect you.](#act3_good_3_respect)
+[متاسفم که بهت احترام نذاشتم.](#act3_good_3_respect)
 
-[I'm sorry I hurt you.](#act3_good_3_hurt)
+[متاسفم که بهت آسیب زدم.](#act3_good_3_hurt)
 
 
 
@@ -726,19 +725,19 @@ h: Sorry for *what*?
 
 `bb({eyes:"sorry_down"});`
 
-b: It's my duty to warn you against *real* danger, but I kept barking at cars and the mailman.
+b: وظیفه من این بود که خطر *واقعی* رو بهت گوشزد کنم. ولی من فقط واق واق میکردم!
 
 `bb({eyes:"sorry_up"});`
 
-b: Barking at shadows. Barking so much.
+b: برای هرچی واق واق میکردم. همیشه!
 
 `bb({eyes:"sorry"});`
 
-b: It only makes sense that you'd want to muzzle me.
+b: کاملا منطقیه که بخوای دهنمو گل بگیری.
 
 `bb({eyes:"sorry_down"});`
 
-b: I'm sorry.
+b: متاسفم.
 
 (#act3_good_4)
 
@@ -748,15 +747,15 @@ b: I'm sorry.
 
 `bb({eyes:"sorry_down"});`
 
-b: I was supposed to be *your* loyal guard-dog, but I acted as if you were supposed to obey *me*.
+b: من باید سگ نگهبان *تو* می بودم ولی طوری رفتار کردم انگار تو باید از *من* پیروی کنی.
 
 `bb({eyes:"sorry_up"});`
 
-b: There's a difference between a protector and a prison warden, and I crossed the line.
+b: محافظ با نگهبان زندان فرق داره. من مرز رو رد کردم.
 
 `bb({eyes:"sorry_down"});`
 
-b: I'm sorry.
+b: متاسفم.
 
 (#act3_good_4)
 
@@ -766,15 +765,15 @@ b: I'm sorry.
 
 `bb({eyes:"sorry_down"});`
 
-b: I was so obsessed with trying to protect you from being hurt, I never stopped to realize *I* was hurting you.
+b: من انقدر درگیر محافظت از *تو* بودم که نفهمیدم *من* دارم به تو آسیب می زنم.
 
 `bb({eyes:"sorry_up"});`
 
-b: I was a bad dog.
+b: من سگ بدی بودم.
 
 `bb({eyes:"sorry_down"});`
 
-b: I'm sorry.
+b: متاسفم.
 
 (#act3_good_4)
 
@@ -792,11 +791,11 @@ h: ...
 hong({ body:"stop", mouth:"stop", eyes:"blank" });
 ```
 
-h: Yeah, well, this was a dumb idea anyway.
+h: آره. خب. به هر حال ایده احمقانه ای بود.
 
-h: I only did this to mess you up, and, well, I messed you up.
+h: من این کارو کردم که بهمت بریزم. خب ریختم@
 
-h: Let's just call this round a tie, okay?
+h: بیا این دور رو مساوی کنیم. اوکی؟
 
 ```
 bb({ mouth:"sorry", eyes:"sorry" });
@@ -805,11 +804,11 @@ bb({ MOUTH_LOCK:true });
 
 b: ...
 
-b: Okay.
+b: باشه.
 
-h: Okay.
+h: خیلی خب.
 
-n: *TIE*
+n: *برابر*
 
 `_.a3_ending = "walkaway";`
 
@@ -885,26 +884,26 @@ publish("act3",["roofhunter",27]);
 
 `Game.FORCE_CANT_SKIP = false;`
 
-r: Oh *come on*. After all that animal's done to you, you're just *giving up?*
+r: اوه! بیخیال! بعد از تمام بلاهایی که اون حیوون سرت آورد داری جا میزنی؟
 
-r: What's the matter, kid? Are you *scared?*
+r: مشکل چیه بچه؟ *ترسیدی*؟
 
 ```
 publish('hong-next');
 publish("act3",["roofhunter",26]);
 ```
 
-h2: Yes.
+h2: آره.
 
-h2: I'm scared.
-
-`publish('hong-next')`
-
-h2: And that's okay!
+h2: ترسیده ام.
 
 `publish('hong-next')`
 
-h2: It's okay to be scared.
+h2: و این اوکیه!
+
+`publish('hong-next')`
+
+h2: اوکیه که بترسی!
 
 `publish('hong-next')`
 
@@ -973,7 +972,7 @@ publish("act3",["roofhunter",32]);
 publish("act3",["roofhunter",33]);
 ```
 
-r: Did they just lock the door?
+r: در رو قفل کرد؟!
 
 ```
 Game.clearAll();
@@ -1082,7 +1081,7 @@ publish('hong-next');
 
 `publish('hong-next')`
 
-b: no no no
+b: نه نه نه
 
 (...501)
 
@@ -1150,7 +1149,7 @@ Game.FORCE_TEXT_Y = 325;
 Game.OVERRIDE_FONT_SIZE = 50;
 ```
 
-b: NO!
+b: *نه!*
 
 (...400)
 
